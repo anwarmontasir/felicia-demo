@@ -142,31 +142,7 @@ header {
     padding: 20px;
     margin: 20px 0;
     border: 2px solid #fff;
-}
-
-a.lets-connect:link {
-    color: #ffffff;
-}
-
-/* visited link */
-a.lets-connect:visited {
-    background: #2d3152;
-    border-color: #fff;
     color: #fff;
-}
-
-/* hover over link */
-a.lets-connect:hover {
-    background: #2d3152;
-    border: 2px solid #ffffff;
-    color: #ffffff;
-}
-
-/* selected link */
-a.lets-connect:active {
-    background: #ffffff;
-    border: 2px solid #ffffff;
-    color: #2d3152;
 }
 
 .mobile-hide-text {
